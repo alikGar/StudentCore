@@ -1,6 +1,6 @@
 #include "pch.h"
 #include <gtest/gtest.h>
-#include "..\StudentCore\Student.h"
+#include "..\StudentCores\Student.h"
 #include <cstring>
 
 TEST(StudentCoreTest, CreateAndFreeGroup)
