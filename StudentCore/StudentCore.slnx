@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../StudentCoreTest/StudentCoreTest.vcxproj" Id="c165c27c-3bf1-4d34-aaa2-e3ac6da149d8" />
+  <Project Path="StudentCore.vcxproj" Id="2821bff1-075e-4d42-97de-722224a55891" />
+</Solution>
